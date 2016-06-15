@@ -1,0 +1,807 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"backgo",
+				"background-position"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"js-",
+				"js-black-hover"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"mysql-",
+				"mysql-minibc"
+			],
+			[
+				"log",
+				"logArray"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mysite/settings.py",
+			"settings":
+			{
+				"buffer_size": 3235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/models.py",
+			"settings":
+			{
+				"buffer_size": 501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mysite/urls.py",
+			"settings":
+			{
+				"buffer_size": 815,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/urls.py",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/views.py",
+			"settings":
+			{
+				"buffer_size": 141,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/templates/blog/post_list.html",
+			"settings":
+			{
+				"buffer_size": 1006,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/admin.py",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sy",
+		"selected_items":
+		[
+			[
+				"sy",
+				"Set Syntax: YAML"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"synta",
+				"Set Syntax: Scala"
+			],
+			[
+				"syntaxh",
+				"Set Syntax: Literate Haskell"
+			],
+			[
+				"syntax",
+				"Set Syntax: Haskell"
+			],
+			[
+				"syntaxob",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"syntaxc",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"sys",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sysba",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"sysa",
+				"Set Syntax: YAML"
+			],
+			[
+				"sysp",
+				"Set Syntax: Python"
+			],
+			[
+				"sysg",
+				"Set Syntax: Go"
+			],
+			[
+				"sysd",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"sysgo",
+				"Set Syntax: Go"
+			],
+			[
+				"sysht",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ss",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssg",
+				"Set Syntax: Groovy"
+			],
+			[
+				"sshp",
+				"Set Syntax: Python"
+			],
+			[
+				"sshs",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssh",
+				"Set Syntax: Haskell"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tema/Dev/djangogirls",
+		"/Users/tema/Dev/djangogirls/blog",
+		"/Users/tema/Dev/djangogirls/blog/templates",
+		"/Users/tema/Dev/djangogirls/blog/templates/blog",
+		"/Users/tema/Dev/djangogirls/mysite"
+	],
+	"file_history":
+	[
+		"/Users/tema/Dev/djangogirls/blog/templates/post_list.html",
+		"/Users/tema/Dev/tmp/docker-run-joomla3.sh",
+		"/Users/tema/Dev/djangogirls/hellp.py",
+		"/Users/tema/Downloads/ads_objects_view.csv",
+		"/Users/tema/Downloads/9269-03-06-2016_11-37-56.csv",
+		"/Users/tema/Downloads/9268-03-06-2016_11-37-55.csv",
+		"/Users/tema/Dev/Sites/vashdantist/conf/docker-run.sh",
+		"/Users/tema/Dev/Go/src/golang-book/chapter3/main.go",
+		"/Users/tema/Dev/Sites/allon4/www/public_html/wp-content/plugins/slick-contact-forms/readme.txt",
+		"/Users/tema/Dev/Sites/allon4/www/public_html/wp-includes/class-phpmailer.php",
+		"/Users/tema/Dev/Sites/allon4/www/public_html/wp-includes/class-smtp.php",
+		"/Users/tema/Dev/Sites/allon4/www/public_html/wp-content/themes/medicure/footer.php",
+		"/Users/tema/Dev/Sites/vashdantist/www/public_html/templates/VashDantist_regular/index.php",
+		"/Users/tema/Desktop/Desktop/ad.html",
+		"/Users/tema/Downloads/fix photoshop wacom.txt",
+		"/Users/tema/Dev/Go/src/golang-book/chapter2/main.go",
+		"/Users/tema/Dropbox/Projects/Realbc/Design/promo-email-pngs/email-realbc.html",
+		"/Users/tema/Dropbox/Projects/Realbc/Design/promo-email-pngs/realbc-list.txt",
+		"/Users/tema/Dev/Sites/minibc/web/omegaplaza-bc.ru/wp-config.php",
+		"/Users/tema/Dev/Sites/minibc/web/victory-plaza.ru/wp-config.php",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/objects.php",
+		"/Volumes/BOOTCAMP/Develop/ser.txt",
+		"/Users/tema/Dev/Sites/minibc/web/omegaplaza-bc.ru/wp-includes/functions.php",
+		"/Volumes/VSCALE - Puma 2/rownarts/web/garagers.ru/public_html/application/config/database.php",
+		"/Volumes/VSCALE - Puma 2/rownarts/conf/apache-vhosts.conf",
+		"/Volumes/VSCALE - Puma 2/rownarts/docker-run-apache.sh",
+		"/Volumes/VSCALE - Puma/minibc/web/victory-plaza.ru/wp-content/themes/photomag/index.php",
+		"/Volumes/VSCALE - Puma/minibc/web/victory-plaza.ru/wp-content/themes/photomag/footer.php",
+		"/Volumes/VSCALE - Puma/minibc/web/wall-street.su/wp-content/themes/quark/footer.php",
+		"/Volumes/VSCALE - Puma/minibc/web/streamlineplaza.ru/wp-content/themes/zenon-lite/footer.php",
+		"/Volumes/VSCALE - Puma/minibc/web/wall-street.su/yandex_4caa64fbf9fb7cb8.html",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/admin/func.php",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/func/func_portfolio.php",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/admin/index.php",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/admin/tasks/upload_obj_icon.php",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/admin/tasks/object.php",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/admin/upload.php",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/admin/tasks/obj_change.php",
+		"/Users/tema/Dev/DockerFiles/docker-run",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/css/default.css",
+		"/Volumes/VSCALE - Puma/minibc/docker-run-apache.sh",
+		"/Volumes/VSCALE - Puma/minibc/conf/apache-vhosts.conf",
+		"/Users/tema/Dev/Sites/arte-plus/docker-run-mbpro.sh",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/admin/auth.php",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/portfolio.php",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/parts/copyright.html",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/css/portfolio.css",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/parts/head.html",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/jscript/makecenter.js",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/jscript/move.js",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/jscript/portfolio.js",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/index.php",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/contacts.php",
+		"/Users/tema/Dev/Sites/arte-plus/docker-run.sh",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/admin/parts/header.html",
+		"/Users/tema/Dev/Sites/arte-plus/public_html/pressa.php",
+		"/Volumes/vscale - Puma/rownarts/web/arte-plus.ru/public_html/admin/index.php",
+		"/Users/tema/Dev/Sites/arte-plus/tmp/convert.sh",
+		"/Volumes/vscale - Puma/rownarts/web/arte-plus.ru/convert.sh",
+		"/Volumes/vscale - Puma/rownarts/web/arte-plus.ru/convert_to_utf.sh",
+		"/Volumes/vscale - Puma/rownarts/web/arte-plus.ru/public_html/admin/func.php",
+		"/Volumes/vscale - Puma/rownarts/web/arte-plus.ru/public_html/admin/auth.php",
+		"/Volumes/vscale - Puma/rownarts/web/arte-plus.ru/public_html/md5.php",
+		"/Volumes/vscale - Puma/rownarts/web/arte-plus.ru/public_html/admin/parts/header.html",
+		"/Volumes/DO Moon (vashdantist)/nasty/allon4.ru/conf/docker-run.sh",
+		"/Volumes/DO Moon (vashdantist)/nasty/vashdantist.com/conf/docker-run.sh",
+		"/Volumes/DO Moon (vashdantist)/nasty/vashdantist.com/www/public_html/configuration.php",
+		"/Volumes/DO Moon (vashdantist)/dev/vashdantist/public/configuration.php",
+		"/Users/tema/Desktop/untitled-joomla-tmp.php",
+		"/Volumes/vscale - Puma/minibc/conf/apache-vhosts.conf",
+		"/Volumes/vscale - Puma/minibc/docker-run-apache.sh",
+		"/Volumes/DO Moon (vashdantist)/dev/vashdantist/docker-run.sh",
+		"/Volumes/vscale - Puma/minibc/web/wall-street.su/.htaccess",
+		"/Volumes/vscale - Puma/minibc/conf/apahce-vhosts.conf",
+		"/Volumes/vscale - Puma/minibc/web/magistralplaza-bc.ru/wp-config.php",
+		"/Volumes/vscale - Puma/minibc/web/cl-property.ru/wp-config.php",
+		"/Volumes/vscale - Puma/minibc/web/alcon-bc.ru/wp-config.php",
+		"/Volumes/vscale - Puma/minibc/web/streamlineplaza.ru/wp-config.php",
+		"/Volumes/vscale - Puma/minibc/web/victory-plaza.ru/wp-config.php",
+		"/Volumes/vscale - Puma/minibc/web/vodnyj.ru/wp-config.php",
+		"/Volumes/vscale - Puma/minibc/web/vseplazi.ru/wp-config.php",
+		"/Users/tema/Dev/Sites/vashdantist/www/public_html/templates/VashDantist_main/css/css.css",
+		"/Users/tema/Dev/Sites/vashdantist/www/public_html/templates/VashDantist_regular/css/css.css",
+		"/Users/tema/Dev/Sites/vashdantist/www/public_html/templates/VashDantist_main/index.php",
+		"/Users/tema/Dev/DockerFiles/wordpress-nginx-ssh-no_mysql_server/Dockerfile",
+		"/Users/tema/Downloads/SHA1SUMS",
+		"/Volumes/vscale - Puma/minibc/conf/nginx-vhosts",
+		"/Volumes/vscale - Puma/minibc/web/wall-street.su/public_html/wp-config.php",
+		"/Volumes/vscale - Puma/minibc/web/omegaplaza-bc.ru/public_html/wp-config.php",
+		"/Volumes/vscale - Puma/minibc/web/omegaplaza-bc.ru/public_html/index.php",
+		"/Volumes/vscale - Puma/minibc/conf/php.ini",
+		"/Users/tema/Dev/DockerFiles/php52-apache-centos/Dockerfile",
+		"/Volumes/Peterhost - Vashdantist.com/www/site1/public_html/php.php",
+		"/Volumes/vscale - Puma/minibc/web/omegaplaza-bc.ru/public_html/php.php",
+		"/Volumes/vscale - Puma/realbc/php-engine/rbc.u88u.ru/docker-run.sh",
+		"/Users/tema/Dev/DockerFiles/docker-compose-example.yml",
+		"/Volumes/vscale - Puma/realbc/php-engine/rbc.u88u.ru/conf/sites-available/000-default.conf",
+		"/Volumes/vscale - Puma/realbc/php-engine/rbc.u88u.ru/Dockerfile",
+		"/Volumes/vscale - Puma/realbc/php-engine/Dockerfile",
+		"/Volumes/vscale - Puma/realbc/php-engine/rbc.u88u.ru/public_html/public/php.php",
+		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/docker-run.sh",
+		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/docker-compose.yml",
+		"/Users/tema/Desktop/\"Mon\",",
+		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/www/js/scripts.js",
+		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/www/index.html",
+		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/www/style.css",
+		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/common.env",
+		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/conf/php.ini",
+		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/mail/send.php",
+		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/mail.php",
+		"/Users/tema/Downloads/smtpauth.php.sample",
+		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/PHPMailer/test/phpmailerTest.php",
+		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/PHPMailer/examples/ssl_options.phps",
+		"/Users/tema/Downloads/Rbm-2/index.html",
+		"/Users/tema/Downloads/Rbm-2/style.css",
+		"/Users/tema/Downloads/Rbm-2/mail.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/tema/Dev/Sites/allon4/www/public_html",
+			"/Users/tema/Dev/Sites/vashdantist",
+			"/Users/tema/Dev/Sites/arte-plus/public_html",
+			"charset=utf-8\"",
+			"/Users/tema/Dev/Sites/allon4/www",
+			"/Users/tema/Dev/Sites/allon4/www/public_html",
+			"/Users/tema/Dev/Sites/vashdantist/www/public_html",
+			"/Users/tema/Dev/Sites/vashdantist",
+			"/Users/tema/Dev/Sites/vashdantist/www",
+			"/Users/tema/Dev/Sites/vashdantist/www/public_html",
+			"/Users/tema/Dev/Sites/vashdantist.com/www/public_html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"docker run -d -i -t -p 9997:80 --name joomla31 -v /home/nasty/joomla3/ --link joomla31db:mysql -d joomla:3",
+			"95",
+			"95.",
+			"\n",
+			" ",
+			"ru",
+			"alcon-bc.ru\nmagistralplaza-bc.ru\nstreamlineplaza.ru\nvodnyj.ru\nwall-street.su\ncl-property.ru\nomegaplaza-bc.ru\nvictory-plaza.ru\nvseplazi.ru",
+			"ru",
+			"alcon-bc.ru\nmagistralplaza-bc.ru\nstreamlineplaza.ru\nvodnyj.ru\nwall-street.su\ncl-property.ru\nomegaplaza-bc.ru\nvictory-plaza.ru\nvseplazi.ru",
+			"ru",
+			"alcon-bc.ru\nmagistralplaza-bc.ru\nstreamlineplaza.ru\nvodnyj.ru\nwall-street.su\ncl-property.ru\nomegaplaza-bc.ru\nvictory-plaza.ru\nvseplazi.ru",
+			"  ",
+			"     ",
+			"smtp",
+			"metrika",
+			"</span>",
+			"<span>",
+			"li",
+			"\n",
+			"Быстрый, удобный, простой поиск офиса по заданным параметрам\nМы гарантируем актуальность нашей базы\nТолько прямые контакты собственников\nМгновенное создание презентации объектов с вашим лого и контактами*\nЕжедневное обновление базы и добавление новых объектов и собственников",
+			"собственников",
+			"простой",
+			"объектов",
+			"новых",
+			"объектов",
+			"Быстрый, удобный, простой поиск офиса по заданным параметрам\nМы гарантируем актуальность нашей базы\nТолько прямые контакты собственников\nМгновенное создание презентации объектов с вашим лого и контактами*\nЕжедневное обновление базы и добавление новых объектов и собственников",
+			"garagers.ru",
+			"alcon-bc.ru",
+			"minibc",
+			"40px",
+			"elseif ($task == 'delobject')  include \"tasks/object_del.php\";",
+			"\n",
+			"omegaplaza-bc.ru",
+			"streamlineplaza.ru",
+			"charset=windows-utf-8\"",
+			"charset=windows-1251\"",
+			"find .",
+			"//aRte777111",
+			"\"17159fa9340c19afe423e361a7ce6bbb\"",
+			"$_SERVER['PHP_AUTH_USER']",
+			"17159fa9340c19afe423e361a7ce6bbb",
+			"098f6bcd4621d373cade4e832627b4f6",
+			"\"arte\"",
+			"\"098f6bcd4621d373cade4e832627b4f6\"",
+			"098f6bcd4621d373cade4e832627b4f6",
+			"md5( $_SERVER['PHP_AUTH_USER'] )",
+			"97926d3cc6100b0e8bbe6ca26aca73e5",
+			"rewrite",
+			"/var/www/html/wall-street.su/public_html",
+			"/var/www/html",
+			"/var/www/html/",
+			"Студия \"Копи-Шоп\"",
+			"понедельник-суббота",
+			"class=\"icon-calendar\"",
+			"понедельник-суббота с 10.00 до 22.00",
+			"contactsL",
+			"Б.П.П.С. 82",
+			"<i class=\"value\">+7 (812) 498-50-33</i>",
+			"понедельник-суббота:   10:00 - 22:00",
+			"usr/share/nginx/www",
+			"/usr/share/nginx/www/",
+			"mysql",
+			"© Copyright 2012 ООО \"ВАШ ДАНТИСТ\"",
+			"display_erro",
+			"popup-title",
+			"short_open_tag",
+			"url_rewriter.tags",
+			"url",
+			"from",
+			"info@rezburmash.ru",
+			"$ssf",
+			"Mon\nSan\nSat\nFri\nWhe "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n",
+			"",
+			"div",
+			"</li>\n<li>",
+			"<li></li>",
+			"<li>",
+			"rownarts.com",
+			"garagers.ru",
+			"rownarts",
+			",",
+			"streamlineplaza.ru",
+			"vseplazi.ru",
+			"vodnyj.ru",
+			"magistralplaza-bc.ru",
+			"cl-property.ru",
+			"alcon-bc.ru",
+			"omegaplaza-bc.ru",
+			"victory-plaza.ru",
+			"charset=utf-8\"",
+			"charset=windows-utf-8\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mysite/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1076,
+								1076
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 430.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mysite/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								767,
+								767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "blog/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "blog/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "blog/templates/blog/post_list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								363,
+								363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "blog/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "djangogirls.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
