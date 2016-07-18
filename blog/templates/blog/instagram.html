@@ -1,0 +1,47 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+<head>
+<title>TEST Django</title>
+<link rel="mask-icon" href="http://s.rwns.ru/circle.svg" color="red">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<style type="text/css">
+	body {font-family: Helvetica}
+	.glyphicon-heart {color: #d9534f}
+	.glyphicon-comment {color: #337ab7}
+	div.image {display: inline-block; width: 105px; padding: 5px;/* background: red;*/ }
+	div.image span.like {color: #d9534f; font-weight: bold;}
+
+
+</style>
+</head>
+<body>
+<p>TEST: {{test}}</p>
+<div class="container" style="width: 385px;">
+	<ul class="list-group" >
+	<li class="list-group-item">
+	{% for key in html %}
+
+		<div class="image">
+			<img src="{{key.images.low_resolution.url}}" width="100" class="img-responsive">
+			<span class="glyphicon glyphicon-comment" aria-hidden="true"></span> {{ key.comments.count }}
+			<span class="glyphicon glyphicon-heart" aria-hidden="true"></span> <span class="like">{{ key.likes.count }}</span>
+		</div>
+
+		
+	{% endfor %}
+	</li>
+	</ul>
+</div>
+
+    
+
+
+</body>
+</html>

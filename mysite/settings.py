@@ -24,6 +24,7 @@ SECRET_KEY = '2jt#zloole5kz+#zzn=j-79$65fh=%c=b$++t54!&q-70@#ggv'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+DEBUG_TOOLBAR_PATCH_SETTINGS = True
 
 ALLOWED_HOSTS = []
 
@@ -38,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog',
+    'debug_toolbar',
 ]
 
 MIDDLEWARE_CLASSES = [

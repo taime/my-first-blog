@@ -4,6 +4,70 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"return"
+			],
+			[
+				"my",
+				"mymodule"
+			],
+			[
+				"xp",
+				"xpath_number"
+			],
+			[
+				"price",
+				"prices"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"prod",
+				"product_links"
+			],
+			[
+				"elem",
+				"elements"
+			],
+			[
+				"get",
+				"getProductsText"
+			],
+			[
+				"image",
+				"images_str"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"p",
+				"products_images_list"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
 				"back",
 				"background"
 			],
@@ -68,58 +132,10 @@
 	"buffers":
 	[
 		{
-			"file": "mysite/settings.py",
-			"settings":
-			{
-				"buffer_size": 3235,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blog/models.py",
-			"settings":
-			{
-				"buffer_size": 501,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "mysite/urls.py",
-			"settings":
-			{
-				"buffer_size": 815,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blog/urls.py",
-			"settings":
-			{
-				"buffer_size": 123,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "blog/views.py",
 			"settings":
 			{
-				"buffer_size": 141,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blog/templates/blog/post_list.html",
-			"settings":
-			{
-				"buffer_size": 1006,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "blog/admin.py",
-			"settings":
-			{
-				"buffer_size": 84,
+				"buffer_size": 3976,
 				"line_ending": "Unix"
 			}
 		}
@@ -131,17 +147,121 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "sy",
+		"height": 87.0,
+		"last_filter": "python",
 		"selected_items":
 		[
 			[
-				"sy",
-				"Set Syntax: YAML"
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"jav",
+				"Build With: JavaC"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"x",
+				"Set Syntax: XML"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"go",
+				"Set Syntax: Go"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"syn",
+				"Set Syntax: R"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"Quick Commit",
+				"Git: Quick Commit"
 			],
 			[
 				"git",
-				"Package Control: Install Package"
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"quick com",
+				"Git: Quick Commit"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git comi",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"sy",
+				"Set Syntax: YAML"
 			],
 			[
 				"synta",
@@ -232,7 +352,7 @@
 				"Set Syntax: Python"
 			]
 		],
-		"width": 485.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -256,18 +376,65 @@
 		"/Users/tema/Dev/djangogirls",
 		"/Users/tema/Dev/djangogirls/blog",
 		"/Users/tema/Dev/djangogirls/blog/templates",
-		"/Users/tema/Dev/djangogirls/blog/templates/blog",
-		"/Users/tema/Dev/djangogirls/mysite"
+		"/Users/tema/Dev/djangogirls/blog/templates/blog"
 	],
 	"file_history":
 	[
+		"/Users/tema/Dev/djangogirls/blog/templates/blog/parser.html",
+		"/Users/tema/Dev/djangogirls/mymodule.py",
+		"/Users/tema/Desktop/newBalance.csv",
+		"/Users/tema/Desktop/nike_new.csv",
+		"/Users/tema/Desktop/nike.csv",
+		"/Users/tema/Desktop/adidas.csv",
+		"/Users/tema/Dev/djangogirls/blog/views.py",
+		"/Users/tema/Desktop/adidas-categories.csv",
+		"/Users/tema/Desktop/nike_adidas.csv",
+		"/Users/tema/Desktop/some-test.html",
+		"/Users/tema/Desktop/catalog-train.html",
+		"/Users/tema/Desktop/New Balance_w.csv",
+		"/Users/tema/Desktop/new-balanc-w-categorie.csv",
+		"/Users/tema/Desktop/fro-test.html",
+		"/Users/tema/Desktop/new_balance_men.csv",
+		"/Users/tema/Desktop/converse.csv",
+		"/Users/tema/Desktop/vans.csv",
+		"/Users/tema/Dev/djangogirls/modules/mymodule.py",
+		"/Users/tema/Dev/djangogirls/blog/mymodule.py",
+		"/Users/tema/Dev/djangogirls/modules/parser.py",
+		"/Users/tema/Dev/djangogirls/blog/urls.py",
+		"/Users/tema/Desktop/to_import.csv",
+		"/Users/tema/Dev/djangogirls/mysite/settings.py",
+		"/Users/tema/Dev/djangogirls/mysite/urls.py",
+		"/Users/tema/Dev/djangogirls/blog/templates/blog/index.html",
+		"/Users/tema/Dev/djangogirls/modules/main.py",
+		"/Users/tema/Dev/DockerFiles/docker-run.sh",
+		"/Users/tema/Desktop/example.csv",
+		"/Users/tema/Desktop/categoryes.csv",
+		"/Users/tema/Dev/DockerFiles/mysql/Dockerfile",
+		"/Users/tema/Dev/Sites/vashdantist/conf/docker-run.sh",
+		"/Users/tema/Dev/uninstall.sh",
+		"/Users/tema/Dev/djangogirls/blog/templates/blog/base.html",
+		"/Users/tema/Dev/djangogirls/blog/templates/blog/bestfit.html",
+		"/Users/tema/Dev/djangogirls/blog/templates/blog/instagram.html",
+		"/Users/tema/Dev/djangogirls/blog/templates/blog/post_detail.html",
+		"/Users/tema/Downloads/circle.svg",
+		"/Users/tema/Downloads/college-graduation.svg",
+		"/Users/tema/Desktop/insta-answer.html",
+		"/Users/tema/Dev/djangogirls/blog/templates/blog/post_edit.html",
+		"/Users/tema/Dev/djangogirls/blog/forms.py",
+		"/Users/tema/Dev/djangogirls/blog/static/css/blog.css",
+		"/Users/tema/Dev/djangogirls/blog/templates/blog/post_list.html",
+		"/Users/tema/Dev/djangogirls/blog/static/blog.css",
+		"/Users/tema/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tema/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/tema/Dev/djangogirls/blog/views2.py",
+		"/Users/tema/Dev/djangogirls/blog/admin.py",
+		"/Users/tema/Dev/djangogirls/blog/models.py",
 		"/Users/tema/Dev/djangogirls/blog/templates/post_list.html",
 		"/Users/tema/Dev/tmp/docker-run-joomla3.sh",
 		"/Users/tema/Dev/djangogirls/hellp.py",
 		"/Users/tema/Downloads/ads_objects_view.csv",
 		"/Users/tema/Downloads/9269-03-06-2016_11-37-56.csv",
 		"/Users/tema/Downloads/9268-03-06-2016_11-37-55.csv",
-		"/Users/tema/Dev/Sites/vashdantist/conf/docker-run.sh",
 		"/Users/tema/Dev/Go/src/golang-book/chapter3/main.go",
 		"/Users/tema/Dev/Sites/allon4/www/public_html/wp-content/plugins/slick-contact-forms/readme.txt",
 		"/Users/tema/Dev/Sites/allon4/www/public_html/wp-includes/class-phpmailer.php",
@@ -340,43 +507,7 @@
 		"/Volumes/vscale - Puma/minibc/web/alcon-bc.ru/wp-config.php",
 		"/Volumes/vscale - Puma/minibc/web/streamlineplaza.ru/wp-config.php",
 		"/Volumes/vscale - Puma/minibc/web/victory-plaza.ru/wp-config.php",
-		"/Volumes/vscale - Puma/minibc/web/vodnyj.ru/wp-config.php",
-		"/Volumes/vscale - Puma/minibc/web/vseplazi.ru/wp-config.php",
-		"/Users/tema/Dev/Sites/vashdantist/www/public_html/templates/VashDantist_main/css/css.css",
-		"/Users/tema/Dev/Sites/vashdantist/www/public_html/templates/VashDantist_regular/css/css.css",
-		"/Users/tema/Dev/Sites/vashdantist/www/public_html/templates/VashDantist_main/index.php",
-		"/Users/tema/Dev/DockerFiles/wordpress-nginx-ssh-no_mysql_server/Dockerfile",
-		"/Users/tema/Downloads/SHA1SUMS",
-		"/Volumes/vscale - Puma/minibc/conf/nginx-vhosts",
-		"/Volumes/vscale - Puma/minibc/web/wall-street.su/public_html/wp-config.php",
-		"/Volumes/vscale - Puma/minibc/web/omegaplaza-bc.ru/public_html/wp-config.php",
-		"/Volumes/vscale - Puma/minibc/web/omegaplaza-bc.ru/public_html/index.php",
-		"/Volumes/vscale - Puma/minibc/conf/php.ini",
-		"/Users/tema/Dev/DockerFiles/php52-apache-centos/Dockerfile",
-		"/Volumes/Peterhost - Vashdantist.com/www/site1/public_html/php.php",
-		"/Volumes/vscale - Puma/minibc/web/omegaplaza-bc.ru/public_html/php.php",
-		"/Volumes/vscale - Puma/realbc/php-engine/rbc.u88u.ru/docker-run.sh",
-		"/Users/tema/Dev/DockerFiles/docker-compose-example.yml",
-		"/Volumes/vscale - Puma/realbc/php-engine/rbc.u88u.ru/conf/sites-available/000-default.conf",
-		"/Volumes/vscale - Puma/realbc/php-engine/rbc.u88u.ru/Dockerfile",
-		"/Volumes/vscale - Puma/realbc/php-engine/Dockerfile",
-		"/Volumes/vscale - Puma/realbc/php-engine/rbc.u88u.ru/public_html/public/php.php",
-		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/docker-run.sh",
-		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/docker-compose.yml",
-		"/Users/tema/Desktop/\"Mon\",",
-		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/www/js/scripts.js",
-		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/www/index.html",
-		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/www/style.css",
-		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/common.env",
-		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/conf/php.ini",
-		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/mail/send.php",
-		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/mail.php",
-		"/Users/tema/Downloads/smtpauth.php.sample",
-		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/PHPMailer/test/phpmailerTest.php",
-		"/Volumes/vscale - Puma/rownarts/i.rezburmash.ru/PHPMailer/examples/ssl_options.phps",
-		"/Users/tema/Downloads/Rbm-2/index.html",
-		"/Users/tema/Downloads/Rbm-2/style.css",
-		"/Users/tema/Downloads/Rbm-2/mail.php"
+		"/Volumes/vscale - Puma/minibc/web/vodnyj.ru/wp-config.php"
 	],
 	"find":
 	{
@@ -387,6 +518,7 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"/Users/tema/Dev/Sites/gumshoes/html/html/config",
 			"/Users/tema/Dev/Sites/allon4/www/public_html",
 			"/Users/tema/Dev/Sites/vashdantist",
 			"/Users/tema/Dev/Sites/arte-plus/public_html",
@@ -402,88 +534,240 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
-			"docker run -d -i -t -p 9997:80 --name joomla31 -v /home/nasty/joomla3/ --link joomla31db:mysql -d joomla:3",
-			"95",
-			"95.",
-			"\n",
-			" ",
-			"ru",
-			"alcon-bc.ru\nmagistralplaza-bc.ru\nstreamlineplaza.ru\nvodnyj.ru\nwall-street.su\ncl-property.ru\nomegaplaza-bc.ru\nvictory-plaza.ru\nvseplazi.ru",
-			"ru",
-			"alcon-bc.ru\nmagistralplaza-bc.ru\nstreamlineplaza.ru\nvodnyj.ru\nwall-street.su\ncl-property.ru\nomegaplaza-bc.ru\nvictory-plaza.ru\nvseplazi.ru",
-			"ru",
-			"alcon-bc.ru\nmagistralplaza-bc.ru\nstreamlineplaza.ru\nvodnyj.ru\nwall-street.su\ncl-property.ru\nomegaplaza-bc.ru\nvictory-plaza.ru\nvseplazi.ru",
-			"  ",
-			"     ",
-			"smtp",
-			"metrika",
-			"</span>",
-			"<span>",
-			"li",
-			"\n",
-			"Быстрый, удобный, простой поиск офиса по заданным параметрам\nМы гарантируем актуальность нашей базы\nТолько прямые контакты собственников\nМгновенное создание презентации объектов с вашим лого и контактами*\nЕжедневное обновление базы и добавление новых объектов и собственников",
-			"собственников",
-			"простой",
-			"объектов",
-			"новых",
-			"объектов",
-			"Быстрый, удобный, простой поиск офиса по заданным параметрам\nМы гарантируем актуальность нашей базы\nТолько прямые контакты собственников\nМгновенное создание презентации объектов с вашим лого и контактами*\nЕжедневное обновление базы и добавление новых объектов и собственников",
-			"garagers.ru",
-			"alcon-bc.ru",
-			"minibc",
-			"40px",
-			"elseif ($task == 'delobject')  include \"tasks/object_del.php\";",
-			"\n",
-			"omegaplaza-bc.ru",
-			"streamlineplaza.ru",
-			"charset=windows-utf-8\"",
-			"charset=windows-1251\"",
-			"find .",
-			"//aRte777111",
-			"\"17159fa9340c19afe423e361a7ce6bbb\"",
-			"$_SERVER['PHP_AUTH_USER']",
-			"17159fa9340c19afe423e361a7ce6bbb",
-			"098f6bcd4621d373cade4e832627b4f6",
-			"\"arte\"",
-			"\"098f6bcd4621d373cade4e832627b4f6\"",
-			"098f6bcd4621d373cade4e832627b4f6",
-			"md5( $_SERVER['PHP_AUTH_USER'] )",
-			"97926d3cc6100b0e8bbe6ca26aca73e5",
-			"rewrite",
-			"/var/www/html/wall-street.su/public_html",
-			"/var/www/html",
-			"/var/www/html/",
-			"Студия \"Копи-Шоп\"",
-			"понедельник-суббота",
-			"class=\"icon-calendar\"",
-			"понедельник-суббота с 10.00 до 22.00",
-			"contactsL",
-			"Б.П.П.С. 82",
-			"<i class=\"value\">+7 (812) 498-50-33</i>",
-			"понедельник-суббота:   10:00 - 22:00",
-			"usr/share/nginx/www",
-			"/usr/share/nginx/www/",
-			"mysql",
-			"© Copyright 2012 ООО \"ВАШ ДАНТИСТ\"",
-			"display_erro",
-			"popup-title",
-			"short_open_tag",
-			"url_rewriter.tags",
+			"арт\\.... ",
+			" ;",
+			"    ;    ",
+			"New Balance,  ",
+			"Мужская обувь",
+			"Женская обувь",
+			"New Balance, Мужские",
+			"New Balance, Женские",
+			"New Balance, Мужские",
+			"New balance",
+			"Nike",
+			"	",
+			";",
+			"product_links",
 			"url",
-			"from",
-			"info@rezburmash.ru",
-			"$ssf",
-			"Mon\nSan\nSat\nFri\nWhe "
+			"all_product_links",
+			" арт\\....",
+			" арт\\. ...",
+			" арт\\....",
+			"арт....\\[",
+			"  ",
+			"Кроссовки",
+			"Nike, ; ",
+			"Nike;;",
+			", Р А С П Р О Д А Ж А СКИДКИ !",
+			"НОВИНКИ / ХИТЫ ПРОДАЖ;",
+			"Р А С П Р О Д А Ж А СКИДКИ !",
+			" Как определить размер...",
+			"NIKE",
+			"^",
+			"НОВИНКИ / ХИТЫ ПРОДАЖ;",
+			"  ",
+			"^ ",
+			"Кроссовки",
+			"Р А С П Р О Д А Ж А СКИДКИ !;",
+			"Adidas",
+			"Adidas; Adidas, (Adidas .*); Adidas .*",
+			"Adidas .*арт.*",
+			"Adidas; Adidas, (Adidas .*);.* ",
+			"sel",
+			"(.*;)(.*)",
+			"^Adidas",
+			"Как определить размер...",
+			"  ",
+			"Кроссовки",
+			"ADIDAS",
+			"Кроссовки ADIDAS;",
+			"НОВИНКИ / ХИТЫ ПРОДАЖ",
+			"цену",
+			"',]",
+			"giveAllProductsLinks",
+			"xpath",
+			"product_str",
+			"price",
+			", New Balance ...;",
+			",",
+			";",
+			"New Balance ... .*",
+			"New Balance; Женская обувь, ",
+			"  ",
+			"	",
+			" руб. Подробнее КУПИТЬ",
+			" руб. Цена: ",
+			"Размер .* Старая цена. ",
+			"(New Balance ...)",
+			"New Balance  ",
+			"Кроссовки New balance",
+			"Мужская обувь,New Balance,New Balance",
+			", ",
+			"	",
+			"^New Balance",
+			"New Balance",
+			" руб. Подробнее КУПИТЬ",
+			" руб. Цена: ",
+			" Размер .*Старая цена: ",
+			"(New balance ...)",
+			"Кроссовки New balance",
+			"	",
+			", ",
+			"images/",
+			"product_images",
+			"src_list",
+			"elem",
+			"images",
+			"src_str",
+			"products_images_list",
+			"')\n",
+			"links",
+			"url_list",
+			"	",
+			"Кеды",
+			" Размер .*цена: ",
+			" руб.*",
+			" руб. Цена: ",
+			" Размеры.*Старая цена: ",
+			",Женская обувь,,Converse,",
+			"Размер.*",
+			" руб.*",
+			".*Цена: ",
+			" руб.*",
+			".*Старая цена:",
+			"/s/",
+			"\nhttp",
+			"; ",
+			"	",
+			"\nКеды",
+			" руб. ",
+			" Старая цена: ",
+			" руб. Цена: ",
+			"Подробнее купить",
+			"Унисекс: .*Старая",
+			"Женские: .*Старая",
+			"')\n",
+			"nike",
+			"adidas;adidas",
+			" New Balance",
+			"new",
+			"ADIDAS ",
+			"_______ _____",
+			"руб.",
+			"руб.\n",
+			" 0;0",
+			"Нет в наличии",
+			"нет",
+			";\n",
+			"руб.",
+			")\n",
+			"быстрый просмотр"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"",
+			";",
+			"New Balance  ",
+			"",
+			"New Balance, Мужская обувь",
+			"New Balance, Женская обувь",
+			"New Balance, New Balance 574, Женская обувь",
+			"New Balance, New Balance 574, Мужская обувь",
+			"New Balance",
+			"    ;    ",
+			"	",
+			"products_page_urls",
+			"product_page_url",
+			"products_urls",
+			" ",
+			"",
+			"Nike;",
+			";",
+			"NIKE AIR MAX 90;",
+			"",
+			"Nike",
+			"Nike;Nike,",
+			"Nike;",
+			" ",
+			"",
+			"NIKE;",
+			"Adidas; Adidas",
+			"$1",
+			"*1",
+			"",
+			"Adidas; $1",
+			"$1$2;$2",
+			"Adidas; Adidas",
+			"Adidas, Adidas",
+			" ",
+			"",
+			"Adidas",
+			"ADIDAS TUBULAR;",
+			"ADIDAS PORSCHE DESIGN;",
+			"ADIDAS YEEZY BOOST 350",
+			"ADIDAS YEEZY BOOST",
+			";",
+			" ",
+			"; ",
+			"",
+			";",
+			"New Balance;Женская обувь, New Balance, $1; $1",
+			"New Balance ",
+			",Мужская обувь,New Balance (m),New Balance",
+			",",
+			";",
+			"New Balance;Мужская обувь, New Balance,New Balance",
+			"New Balance;New Balance",
+			"New Balance",
+			"",
+			";",
+			"$1;$1",
+			"New balance",
+			";",
+			",",
+			"http://moscross.ru/images/",
+			";",
+			"Женская обувь,Vans;Vans;Кеды",
+			";",
+			"",
+			";",
+			"Женская обувь,Converse",
+			"",
+			"/l/",
+			"http",
+			";",
+			"Кеды",
+			"; Женская обувь,Vans; Vans;",
+			"",
+			";",
+			"",
+			"Унисекс; Старая",
+			"Женские; Старая",
+			"Nike;Nike",
+			"Adidas;",
+			"New Balance;New Balance",
+			" new",
+			"Adidas;Adidas ",
+			"Adidas;Adidas",
+			"Мужская обувь",
+			"",
+			"руб.;Adidas\n",
+			" 0руб.;0руб.",
+			"0;0",
+			"",
+			"руб.;",
+			");",
+			"",
+			"span",
+			"Рябинин А.Н.",
+			"Индивидуальный предприниматель Рябинин Артем Николаевич",
 			"\n",
 			"",
 			"div",
@@ -514,209 +798,40 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "mysite/settings.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3235,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1076,
-								1076
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 430.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "blog/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 501,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								362,
-								362
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "mysite/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 815,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								767,
-								767
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "blog/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 123,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								118,
-								109
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "blog/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 141,
+						"buffer_size": 3976,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								116,
-								116
+								665,
+								716
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "blog/templates/blog/post_list.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1006,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								363,
-								363
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 185.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "blog/admin.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 84,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								84,
-								84
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -753,7 +868,27 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 51.0
+	},
 	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 101.0
+	},
+	"output.git-commit":
+	{
+		"height": 112.0
+	},
+	"output.git-push":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
 	{
 		"height": 0.0
 	},
@@ -761,7 +896,7 @@
 	"project": "djangogirls.sublime-project",
 	"replace":
 	{
-		"height": 94.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -799,7 +934,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 275.0,
+	"side_bar_width": 250.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
